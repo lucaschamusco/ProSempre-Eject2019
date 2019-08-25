@@ -1,0 +1,59 @@
+body {
+    background-image: url("imagem02.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+#imagem01{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border: 20px groove #FFC125;
+    width: 580px;
+    border-radius: 0px
+
+}
+#topicos{
+    position: relative;
+    bottom: 700px;
+    left: 0px;
+    width: 150px;
+    height: 100px;
+    background-color: Azure; border:5px inset #9400D3
+  
+}
+
+#Formação{
+    position: relative;
+    width: 600px;
+    background-color: black; border:10px inset red
+
+    
+}
+
+#Sobre{
+    position: relative;
+    margin-top: 20px;
+    width: 600px;
+    background-color: blue; border:10px inset yellow
+}
+
+#curiosidades{
+    position: relative;
+    margin-top: 20px;
+    width: 600px;
+    background-color: black; border:10px inset red
+}
+
+#pé {
+    position: relative;
+    background-color: yellow
+}
+
+#ttl2{
+    position: relative;
+    width: 500px;
+    background-color: #FFC125
+
+}
+#contatos{
+  margin-top: 20px 
